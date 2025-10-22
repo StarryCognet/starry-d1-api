@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "starry-d1-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "37dfe541-3c30-447d-8aae-bd0c6791d27a",
+      "database_name": "starry-blog"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
